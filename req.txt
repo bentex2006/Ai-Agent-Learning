@@ -1,0 +1,9 @@
+click
+python-dotenv
+rich
+requests
+openai
+anthropic
+pydantic
+pydantic-settings
+asyncio
