@@ -38,16 +38,14 @@ graph LR
 
 ### Quick Start 🚀
 ```bash
-# 1. Fork this repository in Replit
 
-# 2. Set up your OpenRouter API key
-# Go to Secrets tab in Replit
+
 # Add: OPENROUTER_API_KEY = your_api_key_here
 
-# 3. Install dependencies (auto-installed in Replit)
+
 pip install -r requirements.txt
 
-# 4. Launch interactive mode
+
 python main.py interactive
 ```
 
@@ -201,7 +199,7 @@ sequenceDiagram
 
 We welcome contributions! Here's how to get started:
 
-1. 🍴 Fork the repository in Replit
+1. 🍴 Fork the repository
 2. 🌿 Create a feature branch
 3. 💻 Make your changes
 4. ✅ Add tests if applicable
@@ -209,47 +207,14 @@ We welcome contributions! Here's how to get started:
 
 Please ensure your code follows the existing style and includes appropriate documentation.
 
-## Deployment 🚀
-
-Deploy your MCP AI Agent on Replit:
-
-1. Click the **Deploy** button in Replit
-2. Configure your deployment settings
-3. Set environment variables in the deployment config
-4. Your agent will be live at `https://your-repl-name.replit.app`
-
-## Troubleshooting 🔧
 
 ### Common Issues
 
 | Issue | Solution |
 |-------|----------|
-| API Key Error | Set `OPENROUTER_API_KEY` in Replit Secrets |
+| API Key Error | Set `OPENROUTER_API_KEY` |
 | Import Errors | Run `pip install -r requirements.txt` |
 | Agent Not Responding | Check network connection and API key validity |
 | Memory Issues | Clear conversation history with `/clear` command |
 
-## License 📄
 
-```
-Copyright 2025 MCP AI Agent Project
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
-
----
-
-**Built with ❤️ on Replit** | **Powered by OpenRouter 🚀**
-
-[![Fork on Replit](https://img.shields.io/badge/Fork_on-Replit-brightgreen?logo=replit)](https://replit.com/fork) 
-[![Deploy on Replit](https://img.shields.io/badge/Deploy_on-Replit-blue?logo=replit)](https://replit.com/deploy)
