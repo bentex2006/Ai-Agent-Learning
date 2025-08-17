@@ -6,7 +6,7 @@
 [![OpenRouter](https://img.shields.io/badge/OpenRouter-API-informational)](https://openrouter.ai/)
 
 A Multi-Capability Platform AI Agent system featuring specialized AI agents for research, code development, creative tasks, and project management. Built with OpenRouter integration and persistent conversation memory.
-
+![Project Banner](banner.gif)
 ```mermaid
 graph LR
     U[User Input] --> R{Router}
